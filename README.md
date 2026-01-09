@@ -13,7 +13,7 @@
 
 ###
 
- Um pouco Sobre Mim 👋😄
+ Bem Vindo ! 🙋🏻‍♂️ | Sobre Mim 💻|👋
 ---
 
 Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e inovação. Sou estudante de Engenharia de Software, com foco em desenvolvimento backend usando Java. Já utilizei HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em bancos de dados SQL e em práticas de versionamento com GIT/GitLab, com o objetivo de colaborar de forma eficiente em equipes e em projetos reais, contribuindo com soluções de software.
@@ -53,6 +53,10 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 # 📊 GitHub Stats:
 
+<p align="center">
+   <img src=" https://github-profile-trophy.vercel.app/?username=henriquedejs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15 " />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=henriquedejs&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -60,6 +64,11 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 <div align="left">
 <img alt="tokyo-night.png" src="https://github.com/henriquedejs/github-readme-activity-graph/blob/main/asset/tokyo-night.png?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS"  width="494" height="194">
+
+<p align="left">
+   <img src=" https://github-profile-trophy.vercel.app/?username=henriquedejs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15 " />
+</p>
+ 
 </div>
 
 
