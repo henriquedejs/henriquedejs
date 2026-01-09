@@ -52,14 +52,18 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ###
 
 # 📊 GitHub Stats:
+
+<div align="left">
+<img alt="tokyo-night.png" src="https://github.com/henriquedejs/github-readme-activity-graph/blob/main/asset/tokyo-night.png?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS"  width="494" height="194">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=henriquedejs&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-## 💻 Outras Tecnologias e Ferramentas
 
+## 💻 Outras Tecnologias e Ferramentas 
 
 ![Java](https://img.shields.io/badge/-java-CC342D?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-PLSQL-2496ED?style=flat&logo=PLSQL&logoColor=white)
@@ -87,8 +91,12 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
 
+---
+
 - 📊 Atualmente estou aprendendo [JAVA,| SQL,| GIT,| AWS|GITHUB,| GITLAB,| APIs,|Spring ]
 - 👥 Gostaria de trabalhar em projetos em equipe
+
+---
 
 ## 💻 Others
 
