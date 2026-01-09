@@ -108,5 +108,5 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 ---
 <div align="center">
-<img src="https://i.gifer.com/2kmE.gif" width="1200">
+<img src="https://i.gifer.com/2kmE.gif" width="1000" height="150">
 </div>
