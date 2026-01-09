@@ -52,6 +52,18 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 ---
 
+## 💻 Outras Tecnologias e Ferramentas
+
+
+![Java](https://img.shields.io/badge/-java-2496ED?style=flat&logo=java&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+
+
 ###
 
 <picture>
@@ -63,7 +75,7 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 - 📊 Atualmente estou aprendendo [JAVA,| SQL,| GIT,| AWS|GITHUB,| GITLAB,| APIs,|Spring ]
 - 😁 Gostaria de trabalhar em projetos em equipe
 
-## 💻 Outras Tecnologias e Ferramentas
+## 💻 Frameworks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
@@ -84,3 +96,4 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 <div align="center" width="100%">
 <img src="https://i.gifer.com/2kmE.gif">
 </div>
+---
