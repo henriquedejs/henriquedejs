@@ -8,7 +8,8 @@
 
 ###
 
-# 🚀 Um pouco Sobre Mim 👋😄
+ Um pouco Sobre Mim 👋😄
+---
 
 Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e inovação. Sou estudante de Engenharia de Software, com foco em desenvolvimento backend usando Java. Já utilizei HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em bancos de dados SQL e em práticas de versionamento com GIT/GitLab, com o objetivo de colaborar de forma eficiente em equipes e em projetos reais, contribuindo com soluções de software.
 
@@ -59,15 +60,18 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ![Python](https://img.shields.io/badge/-PLSQL-2496ED?style=flat&logo=PLSQL&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-e34c26?style=flat&logo=gitlab&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-0052CC?style=flat&logo=Node.js&logoColor=white)
-![git](https://img.shields.io/badge/GitHub-36465D?logo=github&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-36465D?logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-React-AB2B28?style=flat&logo=React&logoColor=black)
 ![C](https://img.shields.io/badge/C-3A76F0?style=flat&logo=c&logoColor=black)
-![ MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![ Spring ](https://img.shields.io/badge/Spring-43E55E?style=flat&logo=spring&logoColor=whit)
-![](https://img.shields.io/badge/Linux-4A154B?style=flat&logo=linux&logoColor=blac)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-43E55E?style=flat&logo=spring&logoColor=whit)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4A154B?style=flat&logo=linux&logoColor=blac)
+![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=oracle&logoColor=white"> )
+![AWS](https://img.shields.io/badge/AmazonAWS-00A8E1?style=flat&logo=AmazonAWS&logoColor=black"> )
+![Git](https://img.shields.io/badge/git-E95420?style=flat&logo=git&logoColor=white">) 
 
 
 ###
@@ -84,15 +88,14 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ## 💻 Others
 
 
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](	https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
- ![]( https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-262577?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0052CC?style=flat&logo=Node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-java-2496ED?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-1976D2?style=flat&logo=React&logoColor=black)
 
 ---
 
@@ -107,4 +110,3 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 <div align="center" width="100%">
 <img src="https://i.gifer.com/2kmE.gif">
 </div>
----
