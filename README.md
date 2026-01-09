@@ -107,6 +107,6 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 - 📪[Email](henriqueoficial.sp@gmail.com)
 
 ---
-<div align="center" width="100%">
-<img src="https://i.gifer.com/2kmE.gif">
+<div align="center">
+<img src="https://i.gifer.com/2kmE.gif" width="1200">
 </div>
