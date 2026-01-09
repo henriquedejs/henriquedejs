@@ -1,5 +1,13 @@
 ### Olá meu Nome e Henrique Santos 👋😄	
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=This+is+my+GitHub;I+am+from+Brazil;I'm+a+student+and+Development;Be+welcome+!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Hello,+welcome!;My+name+is+Henrique+Santos;I+am+a+Software+Engineer+student;and+a+Java+developer;You+are+very+welcome+!" alt="Typing SVG"/>
+
+</div>
+
+
+
 <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5Mjg2NTgsIm5iZiI6MTc2NzkyODM1OCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA5VDAzMTIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZjdjZTk2ZTc0YWYzZjkwYTg5YWViYzBlN2FhMzRmY2VhMWNlODgxOTk0ODRmNjU5NmI3ZWQ0YWI3YTg3YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WQUVKnNYgVwuEpyqqAYQAs5qzXg4q5Pdl6HIaKH21Ao" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
@@ -7,9 +15,8 @@
 
 # 🚀 Sobre Mim
 
-Olá! Eu sou henrique, desenvolvedor apaixonada por tecnologia e inovação. Atualmente, sou estudante de Engenharia de Software, onde utilizo Linguagem C, alem de estudar Java ja utilizei JavaScript, CSS e HTML. alem disso faco cursos complementarem sobre Banco de dados Versionamento com Gitlab.
+Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e inovação. Sou estudante de Engenharia de Software, com foco em desenvolvimento backend usando Java. Já utilizei HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em bancos de dados SQL e em práticas de versionamento com GIT/GitLab, com o objetivo de colaborar de forma eficiente em equipes e em projetos reais, contribuindo com soluções de software.
 
-Gosto muito de aprender coisas novas que acresentem e me...
 </p>
 
 
@@ -80,5 +87,27 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 - 📪 [Email](henriqueoficial.sp@gmail.com)
 
 ---
-
+<div align="center" width="100%">
 <img src="https://i.gifer.com/2kmE.gif">
+</div>
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henriquedejs&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedejs&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=maroongold"/>
+</div>
+
