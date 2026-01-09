@@ -63,8 +63,7 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 - 📊 Atualmente estou aprendendo [JAVA,| SQL,| GIT,| AWS|GITHUB,| GITLAB,| APIs,|Spring ]
 - 😁 Gostaria de trabalhar em projetos em equipe
 
-## 💻 Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+## 💻 Outras Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
@@ -79,7 +78,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 - 📊[LinkedIn](https://www.linkedin.com/in/henriquericksantos/)
 - 📖[Udemy](https://www.udemy.com/user/henrique-santos-277/)
 - 📊[DIO](https://web.dio.me/users/henriqueoficial_org/)
-- 📪 [Email](henriqueoficial.sp@gmail.com)
+- 📪[Email](henriqueoficial.sp@gmail.com)
 
 ---
 <div align="center" width="100%">
