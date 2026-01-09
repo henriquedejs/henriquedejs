@@ -53,14 +53,14 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 # 📊 GitHub Stats:
 
-<div align="left">
-<img alt="tokyo-night.png" src="https://github.com/henriquedejs/github-readme-activity-graph/blob/main/asset/tokyo-night.png?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS"  width="494" height="194">
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=henriquedejs&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<div align="left">
+<img alt="tokyo-night.png" src="https://github.com/henriquedejs/github-readme-activity-graph/blob/main/asset/tokyo-night.png?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS"  width="494" height="194">
+</div>
 
 
 ## 💻 Outras Tecnologias e Ferramentas 
@@ -111,6 +111,16 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ![React](https://img.shields.io/badge/-React-1976D2?style=flat&logo=React&logoColor=black)
 
 ---
+
+## IDEs e Frameworks
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,eclipse,spring" />
+  </a>
+</p>
+
+
 
 ## 📫 Meios de Contato
 
