@@ -55,13 +55,18 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ## 💻 Outras Tecnologias e Ferramentas
 
 
-![Java](https://img.shields.io/badge/-java-2496ED?style=flat&logo=java&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Java](https://img.shields.io/badge/-java-CC342D?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-PLSQL-2496ED?style=flat&logo=PLSQL&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-e34c26?style=flat&logo=gitlab&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![ MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ Spring ](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=whit)
+
 
 
 ###
@@ -73,7 +78,7 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 </picture>
 
 - 📊 Atualmente estou aprendendo [JAVA,| SQL,| GIT,| AWS|GITHUB,| GITLAB,| APIs,|Spring ]
-- 😁 Gostaria de trabalhar em projetos em equipe
+- 👥 Gostaria de trabalhar em projetos em equipe
 
 ## 💻 Frameworks
 
