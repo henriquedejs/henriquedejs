@@ -61,17 +61,6 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ![](https://nirzak-streak-stats.vercel.app/?user=henriquedejs&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-<div align="left">
-<img alt="tokyo-night.png" src="https://github.com/henriquedejs/github-readme-activity-graph/blob/main/asset/tokyo-night.png?raw=true" data-hpc="true" class="Box-sc-62in7e-0 eLrlvS"  width="494" height="194">
-
-<p align="left">
-   <img src=" https://github-profile-trophy.vercel.app/?username=henriquedejs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15 " />
-</p>
- 
-</div>
-
-
 ## 💻 Outras Tecnologias e Ferramentas 
 
 ![Java](https://img.shields.io/badge/-java-CC342D?style=flat&logo=java&logoColor=white)
