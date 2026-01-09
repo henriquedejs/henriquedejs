@@ -1,4 +1,4 @@
-<div align="center" width="100%">
+<div align="center" width="0%">
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=This+is+my+GitHub;I+am+from+Brazil;I'm+a+student+and+Development;Be+welcome+!" alt="Typing SVG"/>
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Hello,+welcome!;My+name+is+Henrique+Santos;I+am+a+Software+Engineer+student;and+a+Java+developer;You+are+very+welcome+!" alt="Typing SVG"/>
 
