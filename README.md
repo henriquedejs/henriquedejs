@@ -60,13 +60,14 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 ![Gitlab](https://img.shields.io/badge/GitLab-e34c26?style=flat&logo=gitlab&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-0052CC?style=flat&logo=Node.js&logoColor=white)
+![git](https://img.shields.io/badge/GitHub-36465D?logo=github&logoColor=white)
+![React](https://img.shields.io/badge/-React-AB2B28?style=flat&logo=React&logoColor=black)
+![C](https://img.shields.io/badge/C-3A76F0?style=flat&logo=c&logoColor=black)
 ![ MySQL ](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![ Spring ](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=whit)
-
+![ Spring ](https://img.shields.io/badge/Spring-43E55E?style=flat&logo=spring&logoColor=whit)
+![](https://img.shields.io/badge/Linux-4A154B?style=flat&logo=linux&logoColor=blac)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 
 ###
@@ -80,8 +81,13 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 - 📊 Atualmente estou aprendendo [JAVA,| SQL,| GIT,| AWS|GITHUB,| GITLAB,| APIs,|Spring ]
 - 👥 Gostaria de trabalhar em projetos em equipe
 
-## 💻 Frameworks
+## 💻 Others
 
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](	https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
+ ![]( https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-PLSQL-3776AB?style=flat&logo=PLSQL&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
