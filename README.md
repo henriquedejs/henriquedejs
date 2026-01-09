@@ -1,8 +1,13 @@
-<div align="center" width="0%">
+<div align="center"  width="1000" height="150">
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=This+is+my+GitHub;I+am+from+Brazil;I'm+a+student+and+Development;Be+welcome+!" alt="Typing SVG"/>
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Hello,+welcome!;My+name+is+Henrique+Santos;I+am+a+Software+Engineer+student;and+a+Java+developer;You+are+very+welcome+!" alt="Typing SVG"/>
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NTkyNzUsIm5iZiI6MTc2Nzk1ODk3NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA5VDExNDI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NzdlNDkxOTE0YjIxMzhiNzMyYjRhYmNiMDZmYzQ0MjVkOGY4YzczMGQ1ZDVhNjBmNjY1ZDhjODVjMzBmYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w9Iqm3-M5Fwlg34qOFe0r6rSg1kfKsG6e7ylWuv8sqY" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
+
+<div align="center">
+
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc5NTkyNzUsIm5iZiI6MTc2Nzk1ODk3NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA5VDExNDI1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NzdlNDkxOTE0YjIxMzhiNzMyYjRhYmNiMDZmYzQ0MjVkOGY4YzczMGQ1ZDVhNjBmNjY1ZDhjODVjMzBmYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.w9Iqm3-M5Fwlg34qOFe0r6rSg1kfKsG6e7ylWuv8sqY" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="300" height="300">
 
 </div>
 
