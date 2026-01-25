@@ -53,9 +53,7 @@ Olá, eu sou Henrique, desenvolvedor e estudante apaixonado por tecnologia e ino
 
 # 📊 GitHub Stats:
 
-<p align="center">
-   <img src=" https://github-profile-trophy.vercel.app/?username=henriquedejs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15 " />
-</p>
+ <img src=" https://github-profile-trophy.vercel.app/?username=henriquedejs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15 " height="165"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=henriquedejs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=henriquedejs&theme=tokyonight&hide_border=true)<br/>
